@@ -1,5 +1,5 @@
 http://gohom.win/2015/10/15/GitLearningExp/
 
-http://blog.jobbole.com/53573/ 建议先看这篇
+http://blog.jobbole.com/53573/ 寤鸿鍏堢湅杩欑瘒
 
-https://gist.github.com/yisibl/8019693关于公钥生成的一篇文
+https://gist.github.com/yisibl/8019693 鍏充簬鍏挜鐢熸垚鐨勪竴绡囨枃
